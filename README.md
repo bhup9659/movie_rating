@@ -7,7 +7,7 @@ Second, to run this utility, kindly log in to your docker account.
 
 #This will pull the image where the image is present on Docker Hub.
 
-docker pull bhupender1988/centos_myimage
+docker pull bhupender1988/movie_rating:part1
 
 #To check the images run the below command
 docker images
