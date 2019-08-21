@@ -5,8 +5,8 @@ First, create Docker environment is setup at the user end.
 
 Second, to run this utility, kindly log in to your docker account.
 
-#This will pull the image where the script is present
-docker pull bhupender1988/movie_rating
+#This will pull the image where the image is present on Docker Hub.
+docker pull bhupender1988/centos_myimage
 
 #To check the images run the below command
 docker images
